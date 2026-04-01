@@ -82,6 +82,7 @@ The Excel file includes an interactive dashboard with:
 - Cuisine performance by rating
 - Cost vs Rating analysis
 - Expansion country recommendations
+- ![Dashboard Preview](dashboard_preview.png)
 
 ---
 
